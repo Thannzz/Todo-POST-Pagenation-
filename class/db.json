@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "value": "Local Todo1",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "value": "Local Todo1",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "value": " Local Todo3",
+      "isCompleted": true
+    },
+    {
+      "id": 4,
+      "value": "Local Todo4",
+      "isCompleted": true
+    },
+    {
+      "value": "Insert Todo1",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "value": "Insert Todo2",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "Insert Todo 3",
+      "isCompleted": false,
+      "id": 7
+    }
+  ]
+}
